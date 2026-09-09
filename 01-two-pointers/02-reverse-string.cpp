@@ -1,5 +1,5 @@
 /*
-    LeetCode Q344 - Reverse String
+    LeetCode Q344 - Reverse String.
 
     Approach:
     - Two Pointer Approach
