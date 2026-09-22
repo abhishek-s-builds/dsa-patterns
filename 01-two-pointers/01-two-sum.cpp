@@ -1,5 +1,5 @@
 // LeetCode 1 -- Two Sum
-// Approach: Using unordered_map to store elements and find complement in O(1)
+// Approach: Using unordered_map to store elements and find complement in O(1).
 // Time Complexity: O(n)
 // Space Complexity: O(n)
 
