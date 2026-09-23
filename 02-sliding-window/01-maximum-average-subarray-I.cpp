@@ -1,6 +1,6 @@
 /*
     LeetCode Question: 643 - Maximum Average Subarray I
-    Approach: Sliding Window
+    Approach: Sliding Window.
     Time Complexity: O(n)
     Space Complexity: O(1)
 */
