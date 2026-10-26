@@ -1,6 +1,6 @@
 /*
     LeetCode : 1004
-    Problem  : Max Consecutive Ones III
+    Problem  : Max Consecutive Ones III.
     Approach : Sliding Window
     Time Complexity  : O(n)
     Space Complexity : O(1)
